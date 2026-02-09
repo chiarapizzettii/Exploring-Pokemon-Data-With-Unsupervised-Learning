@@ -1,4 +1,5 @@
 # Exploring Pokémon Data With Unsupervised Learning
+### *Author: Chiara Pizzetti*
 
 This project explores and analyzes Pokémon data using various **unsupervised learning techniques** to uncover hidden patterns, natural groupings and semantic similarities within the Pokémon universe.
 
@@ -32,7 +33,6 @@ The analysis is performed on three datasets retrieved from the PokéAPI:
 2. Ensure the three CSV files are in the project root.
 3. Run the Jupyter Notebook `Exploring_Pokemon_Data.ipynb`.
 
-### *Author: Chiara Pizzetti*
 
 
 
