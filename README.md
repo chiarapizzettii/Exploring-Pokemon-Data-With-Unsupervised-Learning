@@ -10,7 +10,7 @@ This analysis aims to:
 - Identify "anomalous" or unique Pokémon that defy standard categorizations.
 
 ## **Datasets** 
-The analysis is performed on three datasets retrieved from the PokéAPI:
+The analysis is performed on three datasets retrieved from the Pokémon API (https://pokeapi.co/):
 - `pokemon_complete.csv`: Contains data for 1025 Pokémon, including physical traits (height, weight), types, abilities, and base battle statistics (HP, Attack, Defense, etc.).
 - `moves_complete.csv`: Includes details for 797 moves, featuring both numerical battle properties (Power, Accuracy, PP) and textual descriptions (Effect Text).
 - `learnset_complete.csv`: A bridge dataset mapping which Pokémon can learn which moves.
